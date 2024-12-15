@@ -26,7 +26,7 @@ function Sidebar() {
     ];
 
     return (
-        <section className="w-64 h-screen border-r border-black relative">
+        <section className="w-64 h-screen border-r shadow-2xl relative">
             {/* Admin Dashboard Header */}
             <div className="m-2 p-5">Admin Dashboard</div>
 
